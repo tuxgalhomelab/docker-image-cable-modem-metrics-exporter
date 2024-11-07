@@ -10,7 +10,7 @@ RELEASE_TAG_PACKAGE_NAME="prometheus-cable-modem-exporter"
 
 UPSTREAM_PACKAGE_NAME="Prometheus Cable Modem Exporter"
 UPSTREAM_VERSION_CONFIG_KEY="PROMETHEUS_CABLE_MODEM_EXPORTER_VERSION"
-UPSTREAM_GIT_REPO="https://github.com/Tuxdude/prometheus_cable_modem_exporter"
+UPSTREAM_GIT_REPO="https://github.com/tuxgal/prometheus_cable_modem_exporter"
 
 TEST_TYPE="background"
 TEST_CONTAINER_TYPE="cable-modem-exporter"
